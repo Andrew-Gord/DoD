@@ -1,0 +1,21 @@
+.example-spacer {
+    flex: 1 1 auto;
+    /* color: black; */
+    font-size: large;
+  }
+
+  .example-spacer2 {
+    flex: 1 1 auto;
+    /* color: black; */
+    font-size: large;
+    margin: 15px 15px;
+  }
+.bar{
+    height: auto;
+    background-color: white;
+}
+.image{
+    float: left;
+    height: auto;
+    margin: 10px;
+}
